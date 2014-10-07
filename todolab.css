@@ -1,0 +1,18 @@
+label {
+	font-family: Verdana;
+	font-size: 20px;
+}
+
+input {
+	padding: 10px 15px 10px 15px;
+	text-align: center;
+}
+
+.out{
+	text-decoration: line-through;
+	color: blue;
+}
+
+body { 
+    background: #00ff00 url('smiley.gif') no-repeat fixed center; 
+}
